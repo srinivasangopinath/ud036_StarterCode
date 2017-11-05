@@ -35,7 +35,8 @@ avatar = media.Movie(
 spongebob = media.Movie(
     "The SpongeBob SquarePants",
     "American live-action animated comedy film inspired by the Nickelodeon TV",
-    "https://upload.wikimedia.org/wikipedia/en/3/31/The_SpongeBob_SquarePants_Movie_poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/3/31/" +
+    "The_SpongeBob_SquarePants_Movie_poster.jpg",
     "https://www.youtube.com/watch?v=Tv8xk7BKaNM")
 
 # print(spongebob.storyline)
@@ -57,7 +58,8 @@ homealone3 = media.Movie(
 harrypotter = media.Movie(
     "Harry Potter and the Deathly Hallows part 2",
     "Harry Potter and the Deathly Hallows – Part 2 is a 2011fantasy film ",
-    "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter" +
+    "_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
     "https://www.youtube.com/watch?v=5NYt1qirBWg")
 # print(harrypotter.storyline)
 
