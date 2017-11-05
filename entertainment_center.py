@@ -76,7 +76,8 @@ gandhi = media.Movie(
 # The following movies holds all the above defied movie objects in a list
 movies = [toy_story, avatar, spongebob, homealone3, harrypotter, gandhi]
 # When the list "movies" is passed to the function open_movies_page
-# in the fresh_tomatoes module, this call will generate HTML file including this content
+# in the fresh_tomatoes module, this call will generate HTML file including
+# this content
 #  and produce a website to show all the list movies
 fresh_tomatoes.open_movies_page(movies)
 # print(media.Movie.VALID_RATINGS)
